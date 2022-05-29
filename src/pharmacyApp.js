@@ -6,7 +6,7 @@
  *   networkId: {string} - The network ID (e.g. '1' for main net)
  }
 */
-
+"use strict"
 import React, {Component} from 'react';
 import PropTypes from 'prop-types';
 import './App.css';
