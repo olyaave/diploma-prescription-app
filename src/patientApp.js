@@ -1,12 +1,4 @@
-/**
- * web3Context = {
- *   accounts: {Array<string>} - All accounts
- *   selectedAccount: {string} - Default ETH account address (coinbase)
- *   network: {string} - One of 'MAINNET', 'ROPSTEN', or 'UNKNOWN'
- *   networkId: {string} - The network ID (e.g. '1' for main net)
- }
- */
-"use strict"
+'use strict';
 import React, {Component} from 'react';
 import PropTypes from 'prop-types';
 import QRModal from './QRModal';

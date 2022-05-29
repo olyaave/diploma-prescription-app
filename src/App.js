@@ -1,4 +1,4 @@
-#!/usr/bin/env node --max-old-space-size=1000
+'use strict';
 import React, {Component} from 'react';
 import {BrowserRouter} from 'react-router-dom'
 import {Route, Router, Routes, Link} from 'react-router-dom'
